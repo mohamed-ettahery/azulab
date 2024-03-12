@@ -1,0 +1,1 @@
+<?php require 'includes/templates/header.php'; ?><div class="page-wrapper"><div class="page-content"style="padding:80px;text-align:center;background:#f0f8ff"><h2 style="font-size:47px;font-family:sans-serif;color:#464646">ERROR 404</h2><h6>Page Not Found</h6></div></div><?php require 'includes/templates/footer.php'; ?>
